@@ -11,4 +11,4 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
    - Download the ZIP file from your GitHub repository.
 
 2. Open the Game:
-Open the index.html file in your web browser.
+Open the `index.html` file in your web browser.
