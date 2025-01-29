@@ -7,7 +7,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 3. JavaScript - Game logic and interactions 
 
 1. Clone or Download the Repository:
-   - Use git: bash git clone https://github.com/moumita-284/tic-tac-toe/edit/main
+   - Use git: bash git clone https://github.com/moumita-284/tic-tac-toe.git
    - Download the ZIP file from your GitHub repository.
 
 2. Open the Game:
